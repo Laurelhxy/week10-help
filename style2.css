@@ -1,0 +1,19 @@
+.logo{
+   
+    height:90px !important;
+    width:90px !important;
+    margin: 0px !important;
+  }
+  li.nav-item a{
+ color:white !important;
+
+  }
+  
+#about{
+    z-index:999 !important;
+    position: relative;}
+
+
+header{
+    z-index:100 !important;
+    position: relative;}
